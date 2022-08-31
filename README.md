@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmitri-coder
 - 👀 I’m interested in anything 
-- 🌱 I’m currently learning java,js,python,html,css
+- 🌱 I’m currently learning Java,JS,Python,HTML,CSS3,C++,C
 - 💞️ I’m looking to collaborate on nothin
 - 📫 How to reach me discord = Suvakaspoiss#2611
 
